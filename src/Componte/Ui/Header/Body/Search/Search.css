@@ -1,0 +1,16 @@
+.fa-toggle-off, .fa-toggle-on{
+    color: #DA70D6;
+}
+
+.search-area{
+    background-color: #edb8eb;
+    padding: .3rem .6rem;
+    border-radius: 2rem;
+}
+
+.search-input{
+    background-color: rgba(0, 0, 0, 0);
+    outline: none;
+    border: none;
+    margin: 0 .6rem;
+}

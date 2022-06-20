@@ -1,0 +1,21 @@
+.notification-img{
+    width: 3rem;
+    border-radius: .1rem;
+}
+
+.notification-user{
+    font-size: .8rem;
+    font-weight: bold;
+    margin-top: .3rem;
+}
+
+.notification-text{
+    font-size: .7rem;
+    line-height: .7rem;
+}
+
+.notification-time{
+    font-size: .6rem;
+    line-height: .6rem;
+    color: #919a93;
+}
